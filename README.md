@@ -1,6 +1,3 @@
-# Login-Termux
-Password Login Termux
-Salin File Profile Ke usr/etc/profile
-tambahkan
-sh login.sh
-#Pindahkan file ke $HOME terlebih dulu
+#LOGIN
+salin text nya ke /data/data/com.termux/files/usr/etc
+kemudian tekan nano profile
